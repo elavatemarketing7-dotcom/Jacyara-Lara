@@ -1,0 +1,7 @@
+{
+  "name": "Dra. Jacyara Lara - Harmonização Facial Premium",
+  "description": "Landing page de alta conversão, mobile-first, focada na autoridade da Dra. Jacyara Lara. Inclui quiz interativo e design exclusivo para harmonização facial.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
